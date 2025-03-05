@@ -26,7 +26,7 @@ Before deploying, ensure you have the following:
 ## Installation & Deployment
 
 1. **Clone the Repository**
-   git clone https://github.com/yourusername/your-repo.git
+   git clone (https://github.com/Renuu007/Terraform-AWS-Web-Server-Deployment)
    cd your-repo
 
 2. **Initialize Terraform**
